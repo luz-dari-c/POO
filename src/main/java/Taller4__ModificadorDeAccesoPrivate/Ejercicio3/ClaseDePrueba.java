@@ -10,7 +10,7 @@ public class ClaseDePrueba {
         System.out.println("------------------------------------------------------------------------------");
 
         Zapato zapato = new Zapato(35);
-        zapato.talla; //No es accesible
+        //zapato.talla; //No es accesible
 
 
 
