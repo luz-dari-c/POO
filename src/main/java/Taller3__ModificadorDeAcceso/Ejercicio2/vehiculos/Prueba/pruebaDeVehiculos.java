@@ -1,4 +1,4 @@
-package Taller3.Ejercicio2.vehiculos.Prueba;
+package Taller3__ModificadorDeAcceso.Ejercicio2.vehiculos.Prueba;
 
 
 public class pruebaDeVehiculos {

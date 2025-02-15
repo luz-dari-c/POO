@@ -1,4 +1,4 @@
-package Taller3.Ejercicio1;
+package Taller3__ModificadorDeAcceso.Ejercicio1;
 
 
 public class ClasePrueba {

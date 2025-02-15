@@ -1,4 +1,4 @@
-package Taller3.Ejercicio3;
+package Taller3__ModificadorDeAcceso.Ejercicio3;
 
 
 public class Persona {
